@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-## Empty Repo, will update soon
+### Sample Tic Tac Toe game using JavaScript and HTML
